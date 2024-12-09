@@ -1,2 +1,2 @@
-# AWS-ML-Project
-Air Quality Index Prediction  
+# Machine Learning Project
+# Air Quality Index Prediction  
